@@ -28,58 +28,6 @@
 | ![Public Sponsor](/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png)                 | Public Sponsor        | Sponsored an open source contributor through [GitHub Sponsors](https://github.com/sponsors) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
 
 
-<br>
-
-# 👋 Achievement Skin Tone 👋
-
-#### Some achievements' appearance depends on your Emoji Skin Tone Preference.
-
-#### You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
-
-<br>
-
-| Badge | Name | Skin Tone Versions | 
-| :-: | :-: | :-: |
-| ![Starstruck](/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png)                 | Starstruck         | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="60px"></td>   <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone2.png" width="60px"></td>  <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone3.png" width="60px"></td>  <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone4.png" width="60px"></td>  <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone5.png" width="60px"></td>   <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
-| ![Quickdraw](/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png)                 | Quickdraw         | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="60px"></td>   <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone2.png" width="60px"></td>  <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone3.png" width="60px"></td>  <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone4.png" width="60px"></td>  <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone5.png" width="60px"></td>   <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
-
-
-<br>
-
-# ✨ Highlights Badges ✨
-<br>
-
-<!-- TODO Some of these should have light mode first, and dark mode second. For consistency. - @seanpm2001 !-->
-
-| Badge | Name | How to get |
-| :-: | :-: | :-: |
-| ![pro-black](/Media/Highlights/GitHub-Pro/SVG/GitHub-Pro_DarkMode.svg#gh-light-mode-only) ![pro-white](Media/Highlights/GitHub-Pro/SVG/GitHub-Pro_LightMode.svg#gh-dark-mode-only) | Pro | Use [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
-| ![developer-program-member-dark](/Media/Highlights/Developer-Program-Member/SVG/DeveloperProgramMember_LightMode.svg#gh-dark-mode-only)![developer-program-member-light](/Media/Highlights/Developer-Program-Member/SVG/DeveloperProgramMember_DarkMode.svg#gh-light-mode-only) | Developer Program Member | Be a registered member of the [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![security-bug-bounty-hunter-dark](/Media/Highlights/Security-Bug-Bounty-Hunter/SVG/Security-Bug-Bounty-Hunter_LightMode.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](Media/Highlights/Security-Bug-Bounty-Hunter/SVG/Security-Bug-Bounty-Hunter_DarkMode.svg#gh-light-mode-only) | Security Bug Bounty Hunter | Helped out hunting down security vulnerabilities at [GitHub Security](https://bounty.github.com/) |
-| ![github-campus-expert-dark](/Media/Highlights/GitHub-Campus-Expert/SVG/GitHub-Campus-Expert_LightMode.svg#gh-dark-mode-only)![github-campus-expert-light](/Media/Highlights/GitHub-Campus-Expert/SVG/GitHub-Campus-Expert_DarkMode.svg#gh-light-mode-only) | GitHub Campus Expert | Participate in the [GitHub Campus Program](https://education.github.com/experts) |
-| ![security-advisory-credit-dark](/Media/Highlights/Security-Advisory-Credit/SVG/Security-Advisory-Credit_LightMode.svg#gh-dark-mode-only)![security-advisory-credit-light](/Media/Highlights/Security-Advisory-Credit/SVG/Security-Advisory-Credit_DarkMode.svg#gh-light-mode-only) | Security advisory credit | Have your security advisory submitted to the [GitHub Advisory Database](https://github.com/advisories) accepted |
-
-<br>
-
-# ❌ Badges no longer earnable ❌
-<br>
-
-| Badge | Name | How to get | Needed amount | 
-| :-: | :-: | :-: | :-: |
-| ![Mars 2020 Contributor](/Media/Badges/Mars-2020-Contributor/PNG/Mars2020ContributorBadge.png)     | Mars 2020 Contributor  | Contributed code to a repository used in the [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/Mars-2020-Contributor/PNG/Mars2020ContributorBadge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
-| ![Arctic Code Vault Contributor](/Media/Badges/2020-Arctic-Code-Vault-Contributor/PNG/2020ArcticCodeVaultBadge.png) | Arctic Code Vault Contributor | Contributed code to a repository in the [2020 GitHub Archive Program](https://archiveprogram.github.com/) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/2020-Arctic-Code-Vault-Contributor/PNG/2020ArcticCodeVaultBadge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
-
-<br>
-
-# ℹ️ More information ℹ️
-
-#### You can find more information about GitHub Badges under this [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
-
-<!-- </div> -->
-<br>
-
-####  
-
 <div align="center">
   <img align="center" width="50%" src="/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif">
 </div>
