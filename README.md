@@ -27,3 +27,17 @@
 | ![Heart On Your Sleeve](/Images/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png) | Heart On Your Sleeve | React to something on GitHub with a ❤️ emoji | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Images/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png" width="60px"></td>   <td><img src="/Images/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Bronze.png" width="60px" align="center"></td>  <td><img src="/Images/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Silver.png" width="60px"></td>  <td><img src="/Images/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  </tr>   </tbody>  </table> |
 | ![Open Sourcerer](/Images/Open-Sourcerer/PNG/OpenSourcerer.png) | Open Sourcerer | User had PRs merged in multiple public repositories | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Images/Open-Sourcerer/PNG/OpenSourcerer.png" width="60px"></td>   <td><img src="/Images/Open-Sourcerer/PNG/OpenSourcerer_Bronze.png" width="60px" align="center"></td>  <td><img src="/Images/Open-Sourcerer/PNG/OpenSourcerer_Silver.png" width="60px"></td>  <td><img src="/Images/Open-Sourcerer/PNG/OpenSourcerer_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  </tr>   </tbody>  </table> |
 
+---
+
+## To download, copy the project by clicking "Fork"
+
+---
+
+
+## <div align="center">☕ Support Me
+<p>
+<div align="center"><a href="https://www.buymeacoffee.com/alexnesvit"><img alt="Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a></div>
+</p>
+</div>
+
+
