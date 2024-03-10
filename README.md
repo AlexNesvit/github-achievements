@@ -29,7 +29,7 @@
 
 ---
 
-## To download, copy the project by clicking "Fork"
+## <div align="center">To download, copy the project by clicking "Fork"</div>
 
 ---
 
