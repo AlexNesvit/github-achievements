@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟣 GitHub Achievements 2024 🟣
+# 🟣 GitHub Achievements 2025 🟣
 </div>
 
 <br>
